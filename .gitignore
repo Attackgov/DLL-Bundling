@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+stub/bin/
+stub/obj/
+*.user
+*.suo
+*.pdb
+*.iobj
+*.ipdb
